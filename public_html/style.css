@@ -1,0 +1,27 @@
+
+body {
+    color: cyan;
+}
+pre {
+    color: orange;
+}
+
+h1 {
+    color: cyan ;
+}
+a{
+        text-decoration:line;
+}
+h2 {
+    color: cyan ;
+    text-decoration:line;
+}
+
+nav a {
+    color: yellow;
+    padding:175px;
+}
+
+videos.html{
+    color: yellow;
+}
